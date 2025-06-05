@@ -1,0 +1,1 @@
+<?php header("Location: /my_videos?error=This feature will never be created."); ?>
